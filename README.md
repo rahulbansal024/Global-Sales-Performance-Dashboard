@@ -14,6 +14,10 @@ Businesses need a clear understanding of sales performance, profit trends, and r
 ## Dataset
 Global Superstore Dataset
 
+## Dashboard Preview
+
+![Dashboard](Images/Dashboard_Overview.png)
+
 ## Dashboard Features
 - Total Sales
 - Total Profit
